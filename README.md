@@ -51,7 +51,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joshua-cespedes&layout=donut&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joshua-cespedes&layout=pie&theme=tokyonight&hide_border=true" />
 </p>
 
 </div>
