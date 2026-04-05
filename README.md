@@ -18,12 +18,12 @@
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,mysql,html,css,js,git,github,linux,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,html,css,js,ts,git,github,linux,vscode&perline=6" />
   <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50"/>
 </p>
-<br>
-<br>
+
 
 ---
 
