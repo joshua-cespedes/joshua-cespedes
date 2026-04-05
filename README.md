@@ -3,7 +3,6 @@
 <br>
 
 - Software developer focused on backend and web development
-- Experience with Java, Spring Boot and .NET
 - Currently improving my skills and looking for internship opportunities
 - My portfolio [link](https://joshua-cespedes.github.io/porfolio/portfolio_personal/)
 - My CV [link](https://docs.google.com/document/d/18aE9ZhaWmnctOpPQ8j6wCFu71IfJ22io/edit?usp=sharing)
