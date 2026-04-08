@@ -30,7 +30,7 @@
 
 <div align='left'>
 
-<a href="https://linkedin.com/in/tu-linkedin" target="_blank">
+<a href="https://www.linkedin.com/in/joshua-cespedes/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%2300acee.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
